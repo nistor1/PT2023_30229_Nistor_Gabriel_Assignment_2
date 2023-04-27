@@ -23,6 +23,7 @@ public class SimulationManager implements Runnable{
     private double averageWaitingTime;
     private double averageServiceTime;
     private int peak;
+    private int peakHour;
     private SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_QUEUE;
     private Scheduler scheduler;
     private SimulationFrame frame;
@@ -84,6 +85,7 @@ public class SimulationManager implements Runnable{
             tempPeak += s.getNumberOfTasks();
             if(tempPeak > peak) {
                 peak = tempPeak;
+                peakHour = currentTime;
             }
             displayData += "Queue_" + i + ":";
             i++;
@@ -130,7 +132,7 @@ public class SimulationManager implements Runnable{
                 }
 
                 displayData += displayDataFromQueue(currentTime, scheduler);
-                writeInFile(displayData, peak, averageWaitingTime, averageServiceTime);
+                writeInFile(displayData, peakHour, averageWaitingTime, averageServiceTime);
                 sim.setStringView(displayData);
 
             currentTime++;
@@ -169,11 +171,11 @@ public class SimulationManager implements Runnable{
     }
 
     public int getPeak() {
-        return peak;
+        return peakHour;
     }
 
     public void setPeak(int peak) {
-        this.peak = peak;
+        this.peakHour = peak;
     }
     public Scheduler getScheduler() {
         return scheduler;

@@ -1,419 +1,419 @@
 Peak:0
-AvreageWaitingTime:4.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:4.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 0==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:8.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:8.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 1==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:12.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:12.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 2==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:16.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:16.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 3==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:20.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:20.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 4==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:24.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:24.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 5==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:28.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:28.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 6==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:32.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:32.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 7==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:36.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:36.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 8==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:40.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:40.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 9==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:44.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:44.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 10==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:48.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:48.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 11==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:52.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:52.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 12==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:56.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:56.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 13==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:60.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:60.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 14==>
 Queue_1:
 Queue_2:
 Peak:0
-AvreageWaitingTime:64.0
-AvreageServiceTime:2.25
-Waiting list:(2 16 2)(0 23 2)(1 27 3)(3 30 2)
+AverageWaitingTime:64.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 15==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:67.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:0
+AverageWaitingTime:68.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 16==>
-Queue_1:(2 16 2) 
+Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:70.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:0
+AverageWaitingTime:72.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 17==>
-Queue_1:(2 16 1) 
+Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:73.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:0
+AverageWaitingTime:76.0
+AverageServiceTime:2.5
+Waiting list:(0 19 2)(2 24 2)(3 24 3)(1 29 3)
 18==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:76.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:19
+AverageWaitingTime:79.0
+AverageServiceTime:2.5
+Waiting list:(2 24 2)(3 24 3)(1 29 3)
 19==>
-Queue_1:
+Queue_1:(0 19 2) 
 Queue_2:
-Peak:1
-AvreageWaitingTime:79.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:19
+AverageWaitingTime:82.0
+AverageServiceTime:2.5
+Waiting list:(2 24 2)(3 24 3)(1 29 3)
 20==>
-Queue_1:
+Queue_1:(0 19 1) 
 Queue_2:
-Peak:1
-AvreageWaitingTime:82.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:19
+AverageWaitingTime:85.0
+AverageServiceTime:2.5
+Waiting list:(2 24 2)(3 24 3)(1 29 3)
 21==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:85.0
-AvreageServiceTime:2.25
-Waiting list:(0 23 2)(1 27 3)(3 30 2)
+Peak:19
+AverageWaitingTime:88.0
+AverageServiceTime:2.5
+Waiting list:(2 24 2)(3 24 3)(1 29 3)
 22==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:87.0
-AvreageServiceTime:2.25
-Waiting list:(1 27 3)(3 30 2)
+Peak:19
+AverageWaitingTime:91.0
+AverageServiceTime:2.5
+Waiting list:(2 24 2)(3 24 3)(1 29 3)
 23==>
-Queue_1:(0 23 2) 
-Queue_2:
-Peak:1
-AvreageWaitingTime:89.0
-AvreageServiceTime:2.25
-Waiting list:(1 27 3)(3 30 2)
-24==>
-Queue_1:(0 23 1) 
-Queue_2:
-Peak:1
-AvreageWaitingTime:91.0
-AvreageServiceTime:2.25
-Waiting list:(1 27 3)(3 30 2)
-25==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:93.0
-AvreageServiceTime:2.25
-Waiting list:(1 27 3)(3 30 2)
+Peak:24
+AverageWaitingTime:92.0
+AverageServiceTime:2.5
+Waiting list:(1 29 3)
+24==>
+Queue_1:(2 24 2) 
+Queue_2:(3 24 3) 
+Peak:24
+AverageWaitingTime:93.0
+AverageServiceTime:2.5
+Waiting list:(1 29 3)
+25==>
+Queue_1:(2 24 1) 
+Queue_2:(3 24 2) 
+Peak:24
+AverageWaitingTime:94.0
+AverageServiceTime:2.5
+Waiting list:(1 29 3)
 26==>
 Queue_1:
-Queue_2:
-Peak:1
-AvreageWaitingTime:94.0
-AvreageServiceTime:2.25
-Waiting list:(3 30 2)
+Queue_2:(3 24 1) 
+Peak:24
+AverageWaitingTime:95.0
+AverageServiceTime:2.5
+Waiting list:(1 29 3)
 27==>
-Queue_1:(1 27 3) 
+Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:95.0
-AvreageServiceTime:2.25
-Waiting list:(3 30 2)
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
+Waiting list:(1 29 3)
 28==>
-Queue_1:(1 27 2) 
+Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
-Waiting list:(3 30 2)
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
+Waiting list:
 29==>
-Queue_1:(1 27 1) 
+Queue_1:(1 29 3) 
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 30==>
-Queue_1:(3 30 2) 
+Queue_1:(1 29 2) 
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 31==>
-Queue_1:(3 30 1) 
+Queue_1:(1 29 1) 
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 32==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 33==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 34==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 35==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 36==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 37==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 38==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 39==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 40==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 41==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 42==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 43==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 44==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 45==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 46==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 47==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 48==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 49==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 50==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 51==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 52==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 53==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 54==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 55==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 56==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 57==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 58==>
 Queue_1:
 Queue_2:
-Peak:1
-AvreageWaitingTime:96.0
-AvreageServiceTime:2.25
+Peak:24
+AverageWaitingTime:96.0
+AverageServiceTime:2.5
 Waiting list:
 59==>
 Queue_1:
