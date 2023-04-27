@@ -6,6 +6,7 @@ import org.example.View.View;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 
 public class Controller implements ActionListener {
     private SimulationManager gen;
@@ -68,6 +69,12 @@ public class Controller implements ActionListener {
             int numberOfClients = Integer.parseInt(strNumberOfClients);
             int minArrivalTime = Integer.parseInt(strMinArrivalTime);
             int maxArrivalTime = Integer.parseInt(strMaxArrivalTime);
+
+            String filePath = "displayEvents.txt";
+            File file = new File(filePath);
+            if (file.exists()) {
+                boolean isDeleted = file.delete();
+            }
 
             gen = new SimulationManager(
                     timeLimit,
